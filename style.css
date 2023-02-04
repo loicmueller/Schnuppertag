@@ -1,1 +1,41 @@
+header {
+    background-color: grey;
+}
 
+.price {
+    background-color: rgb(201, 190, 48);
+    width: 50%;
+}
+
+.service {
+    background-color: lightgray;
+    width: 50%;
+}
+
+.flex-wrapper {
+    display: flex;
+}
+
+body {
+    background-image: url(pic.jpg);
+}
+
+input {
+    background-color: rgb(201, 189, 189);
+}
+
+option {
+    background-color: rgb(201, 189, 189);
+}
+
+textarea {
+    background-color: rgb(201, 189, 189);
+}
+
+select {
+    background-color: rgb(201, 189, 189);
+}
+
+::placeholder {
+    color: black;
+}
